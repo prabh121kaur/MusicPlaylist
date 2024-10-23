@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\musicplaylist\\MusicPlaylist\\MusicPlaylist.csproj": {}
+    "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\MusicPlaylist.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\musicplaylist\\MusicPlaylist\\MusicPlaylist.csproj": {
+    "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\MusicPlaylist.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\musicplaylist\\MusicPlaylist\\MusicPlaylist.csproj",
+        "projectUniqueName": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\MusicPlaylist.csproj",
         "projectName": "MusicPlaylist",
-        "projectPath": "C:\\Users\\user\\source\\repos\\musicplaylist\\MusicPlaylist\\MusicPlaylist.csproj",
+        "projectPath": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\MusicPlaylist.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\musicplaylist\\MusicPlaylist\\obj\\",
+        "outputPath": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -65,6 +65,10 @@
             "Microsoft.EntityFrameworkCore.Tools": {
               "target": "Package",
               "version": "[8.0.7, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.6, )"
             },
             "Swashbuckle.AspNetCore.SwaggerGen": {
               "target": "Package",

@@ -1,0 +1,855 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|c:\\users\\user\\source\\repos\\musicplaylist\\musicplaylists\\musicplaylist\\views\\user\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|solutionrelative:musicplaylist\\views\\user\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|c:\\users\\user\\source\\repos\\musicplaylist\\musicplaylists\\musicplaylist\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|solutionrelative:musicplaylist\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|c:\\users\\user\\source\\repos\\musicplaylist\\musicplaylists\\musicplaylist\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|solutionrelative:musicplaylist\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|c:\\users\\user\\source\\repos\\musicplaylist\\musicplaylists\\musicplaylist\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|solutionrelative:musicplaylist\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|c:\\users\\user\\source\\repos\\musicplaylist\\musicplaylists\\musicplaylist\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|solutionrelative:musicplaylist\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|c:\\users\\user\\source\\repos\\musicplaylist\\musicplaylists\\musicplaylist\\controllers\\userpagecontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|solutionrelative:musicplaylist\\controllers\\userpagecontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|c:\\users\\user\\source\\repos\\musicplaylist\\musicplaylists\\musicplaylist\\service\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|solutionrelative:musicplaylist\\service\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|c:\\users\\user\\source\\repos\\musicplaylist\\musicplaylists\\musicplaylist\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|solutionrelative:musicplaylist\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|c:\\users\\user\\source\\repos\\musicplaylist\\musicplaylists\\musicplaylist\\service\\playlistsongsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|solutionrelative:musicplaylist\\service\\playlistsongsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|c:\\users\\user\\source\\repos\\musicplaylist\\musicplaylists\\musicplaylist\\views\\playlistsong\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|solutionrelative:musicplaylist\\views\\playlistsong\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|c:\\users\\user\\source\\repos\\musicplaylist\\musicplaylists\\musicplaylist\\views\\song\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|solutionrelative:musicplaylist\\views\\song\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|c:\\users\\user\\source\\repos\\musicplaylist\\musicplaylists\\musicplaylist\\views\\song\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|solutionrelative:musicplaylist\\views\\song\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|c:\\users\\user\\source\\repos\\musicplaylist\\musicplaylists\\musicplaylist\\views\\song\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|solutionrelative:musicplaylist\\views\\song\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|c:\\users\\user\\source\\repos\\musicplaylist\\musicplaylists\\musicplaylist\\views\\song\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|solutionrelative:musicplaylist\\views\\song\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|c:\\users\\user\\source\\repos\\musicplaylist\\musicplaylists\\musicplaylist\\views\\song\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|solutionrelative:musicplaylist\\views\\song\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|c:\\users\\user\\source\\repos\\musicplaylist\\musicplaylists\\musicplaylist\\controllers\\songpagecontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|solutionrelative:musicplaylist\\controllers\\songpagecontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|c:\\users\\user\\source\\repos\\musicplaylist\\musicplaylists\\musicplaylist\\service\\songsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|solutionrelative:musicplaylist\\service\\songsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|c:\\users\\user\\source\\repos\\musicplaylist\\musicplaylists\\musicplaylist\\interface\\isongservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|solutionrelative:musicplaylist\\interface\\isongservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|c:\\users\\user\\source\\repos\\musicplaylist\\musicplaylists\\musicplaylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|solutionrelative:musicplaylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|c:\\users\\user\\source\\repos\\musicplaylist\\musicplaylists\\musicplaylist\\controllers\\playlistsongcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|solutionrelative:musicplaylist\\controllers\\playlistsongcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|c:\\users\\user\\source\\repos\\musicplaylist\\musicplaylists\\musicplaylist\\views\\playlistsong\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|solutionrelative:musicplaylist\\views\\playlistsong\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|c:\\users\\user\\source\\repos\\musicplaylist\\musicplaylists\\musicplaylist\\views\\playlistsong\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|solutionrelative:musicplaylist\\views\\playlistsong\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|c:\\users\\user\\source\\repos\\musicplaylist\\musicplaylists\\musicplaylist\\views\\playlistsong\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|solutionrelative:musicplaylist\\views\\playlistsong\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|c:\\users\\user\\source\\repos\\musicplaylist\\musicplaylists\\musicplaylist\\views\\playlistsong\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|solutionrelative:musicplaylist\\views\\playlistsong\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|c:\\users\\user\\source\\repos\\musicplaylist\\musicplaylists\\musicplaylist\\controllers\\playlistsongpagecontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|solutionrelative:musicplaylist\\controllers\\playlistsongpagecontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|c:\\users\\user\\source\\repos\\musicplaylist\\musicplaylists\\musicplaylist\\interface\\iplaylistsongservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|solutionrelative:musicplaylist\\interface\\iplaylistsongservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|c:\\users\\user\\source\\repos\\musicplaylist\\musicplaylists\\musicplaylist\\service\\playlistsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|solutionrelative:musicplaylist\\service\\playlistsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|c:\\users\\user\\source\\repos\\musicplaylist\\musicplaylists\\musicplaylist\\service\\favoritesongsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|solutionrelative:musicplaylist\\service\\favoritesongsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|c:\\users\\user\\source\\repos\\musicplaylist\\musicplaylists\\musicplaylist\\views\\playlistsongs\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|solutionrelative:musicplaylist\\views\\playlistsongs\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|c:\\users\\user\\source\\repos\\musicplaylist\\musicplaylists\\musicplaylist\\views\\playlistsongs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|solutionrelative:musicplaylist\\views\\playlistsongs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|c:\\users\\user\\source\\repos\\musicplaylist\\musicplaylists\\musicplaylist\\views\\playlistsongs\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|solutionrelative:musicplaylist\\views\\playlistsongs\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|c:\\users\\user\\source\\repos\\musicplaylist\\musicplaylists\\musicplaylist\\views\\playlistsongs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|solutionrelative:musicplaylist\\views\\playlistsongs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|c:\\users\\user\\source\\repos\\musicplaylist\\musicplaylists\\musicplaylist\\views\\playlistsongs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|solutionrelative:musicplaylist\\views\\playlistsongs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|c:\\users\\user\\source\\repos\\musicplaylist\\musicplaylists\\musicplaylist\\controllers\\playlistpagecontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|solutionrelative:musicplaylist\\controllers\\playlistpagecontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|c:\\users\\user\\source\\repos\\musicplaylist\\musicplaylists\\musicplaylist\\interface\\iplaylistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|solutionrelative:musicplaylist\\interface\\iplaylistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|c:\\users\\user\\source\\repos\\musicplaylist\\musicplaylists\\musicplaylist\\controllers\\favoritesongspagecontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|solutionrelative:musicplaylist\\controllers\\favoritesongspagecontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|c:\\users\\user\\source\\repos\\musicplaylist\\musicplaylists\\musicplaylist\\views\\favoritesong\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|solutionrelative:musicplaylist\\views\\favoritesong\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|c:\\users\\user\\source\\repos\\musicplaylist\\musicplaylists\\musicplaylist\\views\\favoritesong\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|solutionrelative:musicplaylist\\views\\favoritesong\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|c:\\users\\user\\source\\repos\\musicplaylist\\musicplaylists\\musicplaylist\\views\\favoritesong\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|solutionrelative:musicplaylist\\views\\favoritesong\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|c:\\users\\user\\source\\repos\\musicplaylist\\musicplaylists\\musicplaylist\\views\\favoritesong\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|solutionrelative:musicplaylist\\views\\favoritesong\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|c:\\users\\user\\source\\repos\\musicplaylist\\musicplaylists\\musicplaylist\\views\\favoritesong\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|solutionrelative:musicplaylist\\views\\favoritesong\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|c:\\users\\user\\source\\repos\\musicplaylist\\musicplaylists\\musicplaylist\\models\\favoritesong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|solutionrelative:musicplaylist\\models\\favoritesong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|c:\\users\\user\\source\\repos\\musicplaylist\\musicplaylists\\musicplaylist\\interface\\ifavoritesongservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4AA3ED9-AA85-4602-83B0-F4C1A44152DA}|MusicPlaylist\\MusicPlaylist.csproj|solutionrelative:musicplaylist\\interface\\ifavoritesongservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\Controllers\\FavoritesongsController1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MusicPlaylist\\Controllers\\FavoritesongsController1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/MusicDB/True/SqlTable/dbo.Songs.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\AppData\\Local\\Temp\\dbo.Songs.data.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\Controllers\\PlaylistsongController1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MusicPlaylist\\Controllers\\PlaylistsongController1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\Controllers\\SongController1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MusicPlaylist\\Controllers\\SongController1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\Controllers\\UserController1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MusicPlaylist\\Controllers\\UserController1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\Controllers\\PlaylistController1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MusicPlaylist\\Controllers\\PlaylistController1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\Views\\user\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MusicPlaylist\\Views\\user\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\Views\\user\\Edit.cshtml",
+              "RelativeToolTip": "MusicPlaylist\\Views\\user\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T23:59:00.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\Views\\user\\Details.cshtml",
+              "RelativeDocumentMoniker": "MusicPlaylist\\Views\\user\\Details.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\Views\\user\\Details.cshtml",
+              "RelativeToolTip": "MusicPlaylist\\Views\\user\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T23:58:46.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\Views\\user\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MusicPlaylist\\Views\\user\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\Views\\user\\Delete.cshtml",
+              "RelativeToolTip": "MusicPlaylist\\Views\\user\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T23:58:26.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\Views\\user\\Create.cshtml",
+              "RelativeDocumentMoniker": "MusicPlaylist\\Views\\user\\Create.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\Views\\user\\Create.cshtml",
+              "RelativeToolTip": "MusicPlaylist\\Views\\user\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T23:58:07.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\Views\\user\\Index.cshtml",
+              "RelativeDocumentMoniker": "MusicPlaylist\\Views\\user\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\Views\\user\\Index.cshtml",
+              "RelativeToolTip": "MusicPlaylist\\Views\\user\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAQwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T23:57:52.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "userpageController1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\Controllers\\userpageController1.cs",
+              "RelativeDocumentMoniker": "MusicPlaylist\\Controllers\\userpageController1.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\Controllers\\userpageController1.cs",
+              "RelativeToolTip": "MusicPlaylist\\Controllers\\userpageController1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T23:56:41.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\Views\\song\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MusicPlaylist\\Views\\song\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\Views\\song\\Edit.cshtml",
+              "RelativeToolTip": "MusicPlaylist\\Views\\song\\Edit.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAQwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T23:36:53.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\Views\\song\\Details.cshtml",
+              "RelativeDocumentMoniker": "MusicPlaylist\\Views\\song\\Details.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\Views\\song\\Details.cshtml",
+              "RelativeToolTip": "MusicPlaylist\\Views\\song\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T23:36:32.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\Views\\song\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MusicPlaylist\\Views\\song\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\Views\\song\\Delete.cshtml",
+              "RelativeToolTip": "MusicPlaylist\\Views\\song\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T23:36:14.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\Views\\song\\Create.cshtml",
+              "RelativeDocumentMoniker": "MusicPlaylist\\Views\\song\\Create.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\Views\\song\\Create.cshtml",
+              "RelativeToolTip": "MusicPlaylist\\Views\\song\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T23:35:55.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\Views\\playlistsong\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MusicPlaylist\\Views\\playlistsong\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\Views\\playlistsong\\Edit.cshtml",
+              "RelativeToolTip": "MusicPlaylist\\Views\\playlistsong\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T23:22:45.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\interface\\IUserService.cs",
+              "RelativeDocumentMoniker": "MusicPlaylist\\interface\\IUserService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\interface\\IUserService.cs",
+              "RelativeToolTip": "MusicPlaylist\\interface\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T22:54:47.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsersService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\service\\UsersService.cs",
+              "RelativeDocumentMoniker": "MusicPlaylist\\service\\UsersService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\service\\UsersService.cs",
+              "RelativeToolTip": "MusicPlaylist\\service\\UsersService.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAuwD4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T22:55:03.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\Views\\song\\Index.cshtml",
+              "RelativeDocumentMoniker": "MusicPlaylist\\Views\\song\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\Views\\song\\Index.cshtml",
+              "RelativeToolTip": "MusicPlaylist\\Views\\song\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T23:35:35.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlaylistSongsService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\service\\PlaylistSongsService.cs",
+              "RelativeDocumentMoniker": "MusicPlaylist\\service\\PlaylistSongsService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\service\\PlaylistSongsService.cs",
+              "RelativeToolTip": "MusicPlaylist\\service\\PlaylistSongsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T22:50:22.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "songpageController1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\Controllers\\songpageController1.cs",
+              "RelativeDocumentMoniker": "MusicPlaylist\\Controllers\\songpageController1.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\Controllers\\songpageController1.cs",
+              "RelativeToolTip": "MusicPlaylist\\Controllers\\songpageController1.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAuwBUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T23:34:22.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\Program.cs",
+              "RelativeDocumentMoniker": "MusicPlaylist\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\Program.cs",
+              "RelativeToolTip": "MusicPlaylist\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T23:27:57.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\Views\\playlistsong\\Details.cshtml",
+              "RelativeDocumentMoniker": "MusicPlaylist\\Views\\playlistsong\\Details.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\Views\\playlistsong\\Details.cshtml",
+              "RelativeToolTip": "MusicPlaylist\\Views\\playlistsong\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T23:22:29.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\Views\\playlistsong\\delete.cshtml",
+              "RelativeDocumentMoniker": "MusicPlaylist\\Views\\playlistsong\\delete.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\Views\\playlistsong\\delete.cshtml",
+              "RelativeToolTip": "MusicPlaylist\\Views\\playlistsong\\delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T23:22:07.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "create.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\Views\\playlistsong\\create.cshtml",
+              "RelativeDocumentMoniker": "MusicPlaylist\\Views\\playlistsong\\create.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\Views\\playlistsong\\create.cshtml",
+              "RelativeToolTip": "MusicPlaylist\\Views\\playlistsong\\create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T23:21:50.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\Views\\playlistsong\\Index.cshtml",
+              "RelativeDocumentMoniker": "MusicPlaylist\\Views\\playlistsong\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\Views\\playlistsong\\Index.cshtml",
+              "RelativeToolTip": "MusicPlaylist\\Views\\playlistsong\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAkwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T23:20:18.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ISongService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\interface\\ISongService.cs",
+              "RelativeDocumentMoniker": "MusicPlaylist\\interface\\ISongService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\interface\\ISongService.cs",
+              "RelativeToolTip": "MusicPlaylist\\interface\\ISongService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T22:52:51.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SongsService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\service\\SongsService.cs",
+              "RelativeDocumentMoniker": "MusicPlaylist\\service\\SongsService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\service\\SongsService.cs",
+              "RelativeToolTip": "MusicPlaylist\\service\\SongsService.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAuwD0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T22:53:11.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PlaylistsongController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\Controllers\\PlaylistsongController.cs",
+              "RelativeDocumentMoniker": "MusicPlaylist\\Controllers\\PlaylistsongController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\Controllers\\PlaylistsongController.cs",
+              "RelativeToolTip": "MusicPlaylist\\Controllers\\PlaylistsongController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T23:19:17.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "playlistsongpageController1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\Controllers\\playlistsongpageController1.cs",
+              "RelativeDocumentMoniker": "MusicPlaylist\\Controllers\\playlistsongpageController1.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\Controllers\\playlistsongpageController1.cs",
+              "RelativeToolTip": "MusicPlaylist\\Controllers\\playlistsongpageController1.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAIwEkAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T23:08:09.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PlaylistsService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\service\\PlaylistsService.cs",
+              "RelativeDocumentMoniker": "MusicPlaylist\\service\\PlaylistsService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\service\\PlaylistsService.cs",
+              "RelativeToolTip": "MusicPlaylist\\service\\PlaylistsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T22:47:03.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\Views\\PlaylistSongs\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MusicPlaylist\\Views\\PlaylistSongs\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\Views\\PlaylistSongs\\Delete.cshtml",
+              "RelativeToolTip": "MusicPlaylist\\Views\\PlaylistSongs\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T22:20:26.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IPlaylistSongService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\interface\\IPlaylistSongService.cs",
+              "RelativeDocumentMoniker": "MusicPlaylist\\interface\\IPlaylistSongService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\interface\\IPlaylistSongService.cs",
+              "RelativeToolTip": "MusicPlaylist\\interface\\IPlaylistSongService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T22:49:57.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FavoriteSongsService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\service\\FavoriteSongsService.cs",
+              "RelativeDocumentMoniker": "MusicPlaylist\\service\\FavoriteSongsService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\service\\FavoriteSongsService.cs",
+              "RelativeToolTip": "MusicPlaylist\\service\\FavoriteSongsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T22:43:32.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\Views\\favoritesong\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MusicPlaylist\\Views\\favoritesong\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\Views\\favoritesong\\Delete.cshtml",
+              "RelativeToolTip": "MusicPlaylist\\Views\\favoritesong\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T22:11:12.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "playlistpageController1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\Controllers\\playlistpageController1.cs",
+              "RelativeDocumentMoniker": "MusicPlaylist\\Controllers\\playlistpageController1.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\Controllers\\playlistpageController1.cs",
+              "RelativeToolTip": "MusicPlaylist\\Controllers\\playlistpageController1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T22:17:34.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\Views\\PlaylistSongs\\Index.cshtml",
+              "RelativeDocumentMoniker": "MusicPlaylist\\Views\\PlaylistSongs\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\Views\\PlaylistSongs\\Index.cshtml",
+              "RelativeToolTip": "MusicPlaylist\\Views\\PlaylistSongs\\Index.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAQwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T22:19:41.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\Views\\PlaylistSongs\\Create.cshtml",
+              "RelativeDocumentMoniker": "MusicPlaylist\\Views\\PlaylistSongs\\Create.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\Views\\PlaylistSongs\\Create.cshtml",
+              "RelativeToolTip": "MusicPlaylist\\Views\\PlaylistSongs\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T22:20:04.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\Views\\PlaylistSongs\\Details.cshtml",
+              "RelativeDocumentMoniker": "MusicPlaylist\\Views\\PlaylistSongs\\Details.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\Views\\PlaylistSongs\\Details.cshtml",
+              "RelativeToolTip": "MusicPlaylist\\Views\\PlaylistSongs\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T22:20:43.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\Views\\PlaylistSongs\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MusicPlaylist\\Views\\PlaylistSongs\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\Views\\PlaylistSongs\\Edit.cshtml",
+              "RelativeToolTip": "MusicPlaylist\\Views\\PlaylistSongs\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T22:21:06.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\Views\\favoritesong\\Create.cshtml",
+              "RelativeDocumentMoniker": "MusicPlaylist\\Views\\favoritesong\\Create.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\Views\\favoritesong\\Create.cshtml",
+              "RelativeToolTip": "MusicPlaylist\\Views\\favoritesong\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T22:10:35.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\Views\\favoritesong\\Index.cshtml",
+              "RelativeDocumentMoniker": "MusicPlaylist\\Views\\favoritesong\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\Views\\favoritesong\\Index.cshtml",
+              "RelativeToolTip": "MusicPlaylist\\Views\\favoritesong\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T22:10:15.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "favoritesongspageController1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\Controllers\\favoritesongspageController1.cs",
+              "RelativeDocumentMoniker": "MusicPlaylist\\Controllers\\favoritesongspageController1.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\Controllers\\favoritesongspageController1.cs",
+              "RelativeToolTip": "MusicPlaylist\\Controllers\\favoritesongspageController1.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAAwGsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T22:06:49.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IPlaylistService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\interface\\IPlaylistService.cs",
+              "RelativeDocumentMoniker": "MusicPlaylist\\interface\\IPlaylistService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\interface\\IPlaylistService.cs",
+              "RelativeToolTip": "MusicPlaylist\\interface\\IPlaylistService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T22:46:40.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\Views\\favoritesong\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MusicPlaylist\\Views\\favoritesong\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\Views\\favoritesong\\Edit.cshtml",
+              "RelativeToolTip": "MusicPlaylist\\Views\\favoritesong\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T22:10:46.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\Views\\favoritesong\\Details.cshtml",
+              "RelativeDocumentMoniker": "MusicPlaylist\\Views\\favoritesong\\Details.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\Views\\favoritesong\\Details.cshtml",
+              "RelativeToolTip": "MusicPlaylist\\Views\\favoritesong\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T22:10:59.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "PlaylistsongController1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\Controllers\\PlaylistsongController1.cs",
+              "RelativeDocumentMoniker": "MusicPlaylist\\Controllers\\PlaylistsongController1.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\Controllers\\PlaylistsongController1.cs",
+              "RelativeToolTip": "MusicPlaylist\\Controllers\\PlaylistsongController1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T22:50:48.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "FavoritesongsController1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\Controllers\\FavoritesongsController1.cs",
+              "RelativeDocumentMoniker": "MusicPlaylist\\Controllers\\FavoritesongsController1.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\Controllers\\FavoritesongsController1.cs",
+              "RelativeToolTip": "MusicPlaylist\\Controllers\\FavoritesongsController1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T22:43:49.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "IFavoriteSongService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\interface\\IFavoriteSongService.cs",
+              "RelativeDocumentMoniker": "MusicPlaylist\\interface\\IFavoriteSongService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\interface\\IFavoriteSongService.cs",
+              "RelativeToolTip": "MusicPlaylist\\interface\\IFavoriteSongService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T22:42:49.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "FavoriteSong.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\Models\\FavoriteSong.cs",
+              "RelativeDocumentMoniker": "MusicPlaylist\\Models\\FavoriteSong.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\Models\\FavoriteSong.cs",
+              "RelativeToolTip": "MusicPlaylist\\Models\\FavoriteSong.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T14:15:10.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "dbo.Songs [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/MusicDB/True/SqlTable/dbo.Songs.sql",
+              "ToolTip": "dbo.Songs [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-17T19:53:15.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "dbo.Songs.data ",
+              "DocumentMoniker": "C:\\Users\\user\\AppData\\Local\\Temp\\dbo.Songs.data.sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\dbo.Songs.data.sql",
+              "ToolTip": "dbo.Songs.data *",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-17T19:56:57.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "SongController1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\Controllers\\SongController1.cs",
+              "RelativeDocumentMoniker": "MusicPlaylist\\Controllers\\SongController1.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\Controllers\\SongController1.cs",
+              "RelativeToolTip": "MusicPlaylist\\Controllers\\SongController1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T22:53:19.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "UserController1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\Controllers\\UserController1.cs",
+              "RelativeDocumentMoniker": "MusicPlaylist\\Controllers\\UserController1.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\Controllers\\UserController1.cs",
+              "RelativeToolTip": "MusicPlaylist\\Controllers\\UserController1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T22:55:15.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "PlaylistController1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\Controllers\\PlaylistController1.cs",
+              "RelativeDocumentMoniker": "MusicPlaylist\\Controllers\\PlaylistController1.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MusicPlaylist\\MusicPlaylists\\MusicPlaylist\\Controllers\\PlaylistController1.cs",
+              "RelativeToolTip": "MusicPlaylist\\Controllers\\PlaylistController1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T22:47:27.797Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

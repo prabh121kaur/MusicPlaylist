@@ -1,0 +1,11 @@
+﻿@model CoreEntityFramework.Models.User
+
+<h1>User Details</h1>
+
+<div>
+    <h4>Username: @Model.Username</h4>
+    <p>Email: @Model.Email</p>
+    <p>@(string.IsNullOrEmpty(Model.ProfilePicture) ? "No Profile Picture" : "<img src='" + Model.ProfilePicture + "' width='100' height='100'/>")</p>
+</div>
+
+<a asp-action="Index">Back to List</a>

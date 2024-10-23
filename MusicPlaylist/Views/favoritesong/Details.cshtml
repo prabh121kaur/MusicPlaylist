@@ -1,0 +1,16 @@
+﻿@model CoreEntityFramework.Models.FavoriteSong
+
+<h2>Favorite Song Details</h2>
+
+<div>
+    <h4>Favorite Song</h4>
+    <dl class="row">
+        <dt class="col-sm-2">User ID</dt>
+        <dd class="col-sm-10">@Model.UserId</dd>
+        <dt class="col-sm-2">Song ID</dt>
+        <dd class="col-sm-10">@Model.SongId</dd>
+    </dl>
+</div>
+
+<a asp-action="Edit" asp-route-id="@Model.FavoriteSongId">Edit</a> |
+<a asp-action="Index">Back to List</a>

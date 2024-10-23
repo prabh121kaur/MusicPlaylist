@@ -1,0 +1,39 @@
+﻿@model CoreEntityFramework.Models.Song
+
+<h1>Edit Song</h1>
+
+<form asp-action="Edit">
+    <div class="form-group">
+        <label asp-for="Title"></label>
+        <input asp-for="Title" class="form-control" />
+        <span asp-validation-for="Title" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Artist"></label>
+        <input asp-for="Artist" class="form-control" />
+        <span asp-validation-for="Artist" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Album"></label>
+        <input asp-for="Album" class="form-control" />
+        <span asp-validation-for="Album" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Genre"></label>
+        <input asp-for="Genre" class="form-control" />
+        <span asp-validation-for="Genre" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="ReleaseDate"></label>
+        <input asp-for="ReleaseDate" class="form-control" type="date" />
+        <span asp-validation-for="ReleaseDate" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Duration"></label>
+        <input asp-for="Duration" class="form-control" type="time" />
+        <span asp-validation-for="Duration" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Save</button>
+</form>
+
+<a asp-action="Index">Back to List</a>

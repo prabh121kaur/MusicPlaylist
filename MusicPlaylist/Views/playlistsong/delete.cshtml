@@ -1,0 +1,12 @@
+﻿@model CoreEntityFramework.Models.PlaylistSong
+
+<h2>Are you sure you want to delete this song from the playlist?</h2>
+<div>
+    <p>Playlist ID: @Model.PlaylistId</p>
+    <p>Song ID: @Model.SongId</p>
+</div>
+<form asp-action="Delete" method="post">
+    <input type="hidden" asp-for="PlaylistId" />
+    <input type="hidden" asp-for="SongId" />
+    <button type="submit">Delete</button>
+</form>

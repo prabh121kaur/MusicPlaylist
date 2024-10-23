@@ -1,0 +1,21 @@
+﻿@model CoreEntityFramework.Models.Song
+
+<h1>Delete Song</h1>
+
+<div>
+    <h3>Are you sure you want to delete this song?</h3>
+    <div>
+        <h4>@Model.Title</h4>
+        <p>Artist: @Model.Artist</p>
+        <p>Album: @Model.Album</p>
+        <p>Genre: @Model.Genre</p>
+        <p>Release Date: @Model.ReleaseDate.ToShortDateString()</p>
+    </div>
+</div>
+
+<form asp-action="DeleteConfirmed">
+    <input type="hidden" asp-for="SongId" />
+    <button type="submit" class="btn btn-danger">Delete</button>
+</form>
+
+<a asp-action="Index">Back to List</a>

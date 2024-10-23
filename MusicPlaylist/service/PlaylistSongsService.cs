@@ -1,14 +1,15 @@
-﻿using CoreEntityFramework.Interfaces;
-using CoreEntityFramework.Models;
+﻿using CoreEntityFramework.Models;
 using Microsoft.EntityFrameworkCore;
+using System.Collections.Generic;
+using System.Threading.Tasks;
 
 namespace CoreEntityFramework.Services
 {
-    public class PlaylistSongsService : IPlaylistSongsService
+    public class PlaylistSongService : IPlaylistSongService
     {
         private readonly AppDbContext _context;
 
-        public PlaylistSongsService(AppDbContext context)
+        public PlaylistSongService(AppDbContext context)
         {
             _context = context;
         }
@@ -35,6 +36,23 @@ namespace CoreEntityFramework.Services
                 _context.PlaylistSongs.Remove(playlistSong);
                 await _context.SaveChangesAsync();
             }
+        }
+
+        public async Task<IEnumerable<PlaylistSong>> GetPlaylistSongsAsync()
+        {
+            return await _context.PlaylistSongs.ToListAsync();
+        }
+
+        public async Task<PlaylistSong?> GetPlaylistSongAsync(int playlistId, int songId)
+        {
+            return await _context.PlaylistSongs
+                .FirstOrDefaultAsync(ps => ps.PlaylistId == playlistId && ps.SongId == songId);
+        }
+
+        public async Task UpdatePlaylistSongAsync(PlaylistSong playlistSong)
+        {
+            _context.PlaylistSongs.Update(playlistSong);
+            await _context.SaveChangesAsync();
         }
     }
 }

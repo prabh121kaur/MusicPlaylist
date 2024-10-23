@@ -1,19 +1,20 @@
-﻿using CoreEntityFramework.Interfaces;
-using CoreEntityFramework.Models;
+﻿using CoreEntityFramework.Models;
 using Microsoft.EntityFrameworkCore;
+using System.Collections.Generic;
+using System.Threading.Tasks;
 
 namespace CoreEntityFramework.Services
 {
-    public class SongsService : ISongsService
+    public class SongService : ISongService
     {
         private readonly AppDbContext _context;
 
-        public SongsService(AppDbContext context)
+        public SongService(AppDbContext context)
         {
             _context = context;
         }
 
-        public async Task<IEnumerable<Song>> GetAllSongsAsync()
+        public async Task<IEnumerable<Song>> GetSongsAsync()
         {
             return await _context.Songs.ToListAsync();
         }
@@ -30,10 +31,25 @@ namespace CoreEntityFramework.Services
             return song;
         }
 
-        public async Task UpdateSongAsync(Song song)
+        public async Task UpdateSongAsync(int id, Song song)
         {
             _context.Entry(song).State = EntityState.Modified;
-            await _context.SaveChangesAsync();
+
+            try
+            {
+                await _context.SaveChangesAsync();
+            }
+            catch (DbUpdateConcurrencyException)
+            {
+                if (!SongExists(id))
+                {
+                    throw new KeyNotFoundException("Song not found");
+                }
+                else
+                {
+                    throw;
+                }
+            }
         }
 
         public async Task DeleteSongAsync(int id)
@@ -44,6 +60,11 @@ namespace CoreEntityFramework.Services
                 _context.Songs.Remove(song);
                 await _context.SaveChangesAsync();
             }
+        }
+
+        public bool SongExists(int id)
+        {
+            return _context.Songs.Any(e => e.SongId == id);
         }
     }
 }

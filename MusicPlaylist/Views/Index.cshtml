@@ -1,0 +1,19 @@
+﻿@model IEnumerable<MusicPlaylist.Models.Playlist>
+
+<h1>Playlists</h1>
+
+<table>
+    <tr>
+        <th>Name</th>
+        <th>Tracks</th>
+    </tr>
+    @foreach (var playlist in Model)
+    {
+        <tr>
+            <td>@playlist.Name</td>
+            <td>@playlist.Tracks.Count</td>
+        </tr>
+    }
+</table>
+
+<a href="/Playlist/Create">Create New Playlist</a>

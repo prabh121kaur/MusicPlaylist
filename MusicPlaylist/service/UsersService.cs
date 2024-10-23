@@ -1,19 +1,20 @@
-﻿using CoreEntityFramework.Interfaces;
-using CoreEntityFramework.Models;
+﻿using CoreEntityFramework.Models;
 using Microsoft.EntityFrameworkCore;
+using System.Collections.Generic;
+using System.Threading.Tasks;
 
 namespace CoreEntityFramework.Services
 {
-    public class UsersService : IUsersService
+    public class UserService : IUserService
     {
         private readonly AppDbContext _context;
 
-        public UsersService(AppDbContext context)
+        public UserService(AppDbContext context)
         {
             _context = context;
         }
 
-        public async Task<IEnumerable<User>> GetAllUsersAsync()
+        public async Task<IEnumerable<User>> GetUsersAsync()
         {
             return await _context.Users.ToListAsync();
         }
@@ -30,10 +31,25 @@ namespace CoreEntityFramework.Services
             return user;
         }
 
-        public async Task UpdateUserAsync(User user)
+        public async Task UpdateUserAsync(int id, User user)
         {
             _context.Entry(user).State = EntityState.Modified;
-            await _context.SaveChangesAsync();
+
+            try
+            {
+                await _context.SaveChangesAsync();
+            }
+            catch (DbUpdateConcurrencyException)
+            {
+                if (!UserExists(id))
+                {
+                    throw new KeyNotFoundException("User not found");
+                }
+                else
+                {
+                    throw;
+                }
+            }
         }
 
         public async Task DeleteUserAsync(int id)
@@ -44,6 +60,11 @@ namespace CoreEntityFramework.Services
                 _context.Users.Remove(user);
                 await _context.SaveChangesAsync();
             }
+        }
+
+        public bool UserExists(int id)
+        {
+            return _context.Users.Any(e => e.UserId == id);
         }
     }
 }

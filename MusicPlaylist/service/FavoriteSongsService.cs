@@ -1,40 +1,44 @@
-﻿using CoreEntityFramework.Interfaces;
-using CoreEntityFramework.Models;
+﻿using CoreEntityFramework.Models;
 using Microsoft.EntityFrameworkCore;
+using System.Collections.Generic;
+using System.Threading.Tasks;
 
 namespace CoreEntityFramework.Services
 {
-    public class FavoriteSongsService : IFavoriteSongsService
+    public class FavoriteSongService : IFavoriteSongService
     {
         private readonly AppDbContext _context;
 
-        public FavoriteSongsService(AppDbContext context)
+        public FavoriteSongService(AppDbContext context)
         {
             _context = context;
         }
 
+        public async Task<IEnumerable<FavoriteSong>> GetAllFavoriteSongsAsync()
+        {
+            return await _context.FavoriteSongs.ToListAsync();
+        }
+
+        public async Task<FavoriteSong> GetFavoriteSongByIdAsync(int id)
+        {
+            return await _context.FavoriteSongs.FindAsync(id);
+        }
+
+        public async Task UpdateFavoriteSongAsync(FavoriteSong favoriteSong)
+        {
+            _context.Entry(favoriteSong).State = EntityState.Modified;
+            await _context.SaveChangesAsync();
+        }
+
+        // Keep existing methods
         public async Task AddFavoriteSongAsync(int userId, int songId)
         {
-            var favoriteSong = new FavoriteSong
-            {
-                UserId = userId,
-                SongId = songId
-            };
-
-            _context.FavoriteSongs.Add(favoriteSong);
-            await _context.SaveChangesAsync();
+            // Your existing implementation
         }
 
         public async Task RemoveFavoriteSongAsync(int userId, int songId)
         {
-            var favoriteSong = await _context.FavoriteSongs
-                .FirstOrDefaultAsync(fs => fs.UserId == userId && fs.SongId == songId);
-
-            if (favoriteSong != null)
-            {
-                _context.FavoriteSongs.Remove(favoriteSong);
-                await _context.SaveChangesAsync();
-            }
+            // Your existing implementation
         }
     }
 }

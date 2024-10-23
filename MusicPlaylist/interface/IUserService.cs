@@ -2,14 +2,15 @@
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace CoreEntityFramework.Interfaces
+namespace CoreEntityFramework.Services
 {
-    public interface IUsersService
+    public interface IUserService
     {
-        Task<IEnumerable<User>> GetAllUsersAsync();
+        Task<IEnumerable<User>> GetUsersAsync();
         Task<User> GetUserByIdAsync(int id);
         Task<User> CreateUserAsync(User user);
-        Task UpdateUserAsync(User user);
+        Task UpdateUserAsync(int id, User user);
         Task DeleteUserAsync(int id);
+        bool UserExists(int id);
     }
 }

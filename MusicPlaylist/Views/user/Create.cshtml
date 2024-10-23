@@ -1,0 +1,24 @@
+﻿@model CoreEntityFramework.Models.User
+
+<h1>Create User</h1>
+
+<form asp-action="Create">
+    <div class="form-group">
+        <label asp-for="Username"></label>
+        <input asp-for="Username" class="form-control" />
+        <span asp-validation-for="Username" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Email"></label>
+        <input asp-for="Email" class="form-control" />
+        <span asp-validation-for="Email" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="ProfilePicture"></label>
+        <input asp-for="ProfilePicture" class="form-control" />
+        <span asp-validation-for="ProfilePicture" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Create</button>
+</form>
+
+<a asp-action="Index">Back to List</a>

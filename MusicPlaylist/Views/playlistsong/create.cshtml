@@ -1,0 +1,13 @@
+﻿@model CoreEntityFramework.Models.PlaylistSong
+
+<form asp-action="Create">
+    <div>
+        <label asp-for="PlaylistId"></label>
+        <input asp-for="PlaylistId" />
+    </div>
+    <div>
+        <label asp-for="SongId"></label>
+        <input asp-for="SongId" />
+    </div>
+    <button type="submit">Add Song to Playlist</button>
+</form>

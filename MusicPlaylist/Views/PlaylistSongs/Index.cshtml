@@ -1,0 +1,32 @@
+﻿@model IEnumerable<CoreEntityFramework.Models.Playlist>
+
+<h2>Playlists</h2>
+<a asp-action="Create">Add Playlist</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Description</th>
+            <th>Playlist Color</th>
+            <th>Is Private</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td>@item.Description</td>
+                <td>@item.PlaylistColor</td>
+                <td>@item.IsPrivate</td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@item.PlaylistId">Details</a> |
+                    <a asp-action="Edit" asp-route-id="@item.PlaylistId">Edit</a> |
+                    <a asp-action="Delete" asp-route-id="@item.PlaylistId">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

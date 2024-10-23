@@ -1,0 +1,28 @@
+﻿@model IEnumerable<CoreEntityFramework.Models.FavoriteSong>
+
+<h2>Favorite Songs</h2>
+<a asp-action="Create">Add Favorite Song</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>User ID</th>
+            <th>Song ID</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.UserId</td>
+                <td>@item.SongId</td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@item.FavoriteSongId">Details</a> |
+                    <a asp-action="Edit" asp-route-id="@item.FavoriteSongId">Edit</a> |
+                    <a asp-action="Delete" asp-route-id="@item.FavoriteSongId">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

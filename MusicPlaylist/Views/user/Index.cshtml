@@ -1,0 +1,33 @@
+﻿@model IEnumerable<CoreEntityFramework.Models.User>
+
+<h1>Users</h1>
+
+<p>
+    <a asp-action="Create">Create New User</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Username</th>
+            <th>Email</th>
+            <th>Profile Picture</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model)
+        {
+            <tr>
+                <td>@user.Username</td>
+                <td>@user.Email</td>
+                <td>@(string.IsNullOrEmpty(user.ProfilePicture) ? "N/A" : "<img src='" + user.ProfilePicture + "' width='50' height='50'/>")</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@user.UserId">Edit</a> |
+                    <a asp-action="Delete" asp-route-id="@user.UserId">Delete</a> |
+                    <a asp-action="Details" asp-route-id="@user.UserId">Details</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

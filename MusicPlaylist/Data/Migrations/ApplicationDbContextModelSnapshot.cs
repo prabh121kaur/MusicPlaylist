@@ -24,23 +24,23 @@ namespace MusicPlaylist.Data.Migrations
 
             modelBuilder.Entity("CoreEntityFramework.Models.FavoriteSong", b =>
                 {
-                    b.Property<int>("UserId")
+                    b.Property<int>("FavoriteSongId")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("UserId"));
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("FavoriteSongId"));
 
                     b.Property<int>("SongId")
                         .HasColumnType("int");
 
-                    b.Property<int>("UserId1")
+                    b.Property<int>("UserId")
                         .HasColumnType("int");
 
-                    b.HasKey("UserId");
+                    b.HasKey("FavoriteSongId");
 
                     b.HasIndex("SongId");
 
-                    b.HasIndex("UserId1");
+                    b.HasIndex("UserId");
 
                     b.ToTable("FavoriteSongs");
                 });
@@ -162,21 +162,17 @@ namespace MusicPlaylist.Data.Migrations
 
             modelBuilder.Entity("CoreEntityFramework.Models.FavoriteSong", b =>
                 {
-                    b.HasOne("CoreEntityFramework.Models.Song", "Song")
+                    b.HasOne("CoreEntityFramework.Models.Song", null)
                         .WithMany("FavoriteSongs")
                         .HasForeignKey("SongId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.HasOne("CoreEntityFramework.Models.User", "User")
+                    b.HasOne("CoreEntityFramework.Models.User", null)
                         .WithMany("FavoriteSongs")
-                        .HasForeignKey("UserId1")
+                        .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
-
-                    b.Navigation("Song");
-
-                    b.Navigation("User");
                 });
 
             modelBuilder.Entity("CoreEntityFramework.Models.Playlist", b =>
